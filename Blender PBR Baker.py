@@ -2,7 +2,7 @@ bl_info = {
     "name": "PBR Texture Baker",
     "author": "Godwin Jimoh(Astronet)",
     "version": (1, 1, 2),
-    "blender": (4, 0, 0),
+    "blender": (4, 4, 3),
     "location": "View3D > Sidebar > Bake Tab",
     "description": "Bake multiple maps across selected objects using shared UVs",
     "category": "Object",

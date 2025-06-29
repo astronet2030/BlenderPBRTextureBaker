@@ -1,6 +1,6 @@
 bl_info = {
     "name": "PBR Texture Baker",
-    "author": "Godwin Jimoh",
+    "author": "Godwin Jimoh(Astronet)",
     "version": (1, 1, 2),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Bake Tab",
